@@ -1,0 +1,15 @@
+{
+  "packages": [
+    {
+      "name": "pq32",
+      "maintainer": "Espressif Systems",
+      "websiteURL": "https://github.com/espressif/arduino-esp32",
+      "email": "hristo@espressif.com",
+      "help": {
+        "online": "http://esp32.com"
+      },
+        "platforms": [],
+        "tools": []
+    }
+  ]
+}
