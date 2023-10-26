@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "pq32",
+      "name": "PQINO32",
       "maintainer": "pq",
       "websiteURL": "https://github.com/espressif/arduino-esp32",
       "email": "info@bastlerland.de",
@@ -10,33 +10,21 @@
       },
         "platforms": [
             {
-          "name": "pq32",
+          "name": "PQINOS3",
           "architecture": "esp32",
-          "version": "2.0.13",
+          "version": "2.0.14",
           "category": "ESP32",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.13/esp32-2.0.13.zip",
-          "archiveFileName": "esp32-2.0.13.zip",
-          "checksum": "SHA-256:ee4c277bac0eecb7ca8853780da9d49b4e260926059cf6a9f9bac1923059de0c",
-          "size": "250665913",
+          "url": "https://just-honest.com/PQ32/esp32-2.0.14.zip",
+          "archiveFileName": "esp32-2.0.14.zip",
+          "checksum": "SHA-45761f44ef4f8a4d6d6925fe3461b2662ea84d1ff62b06ab7b40f4a774bd9d44",
+          "size": "249600115",
           "help": {
             "online": ""
           },
           "boards": [
             {
-              "name": "ESP32 Dev Board"
-            },
-            {
-              "name": "ESP32-S2 Dev Board"
-            },
-            {
-              "name": "ESP32-S3 Dev Board"
-            },
-            {
-              "name": "ESP32-C3 Dev Board"
-            },
-            {
-              "name": "Arduino Nano ESP32"
-            }
+              "name": "PQINOS3"
+            }            
           ],
           "toolsDependencies": [
             
