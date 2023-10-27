@@ -3,7 +3,7 @@
     {
       "name": "PQINO32",
       "maintainer": "pq",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
+      "websiteURL": "https://www.just-honest.com/PQ32/",
       "email": "info@bastlerland.de",
       "help": {
         "online": "http://bastlerland.de"
@@ -16,7 +16,7 @@
           "category": "ESP32",
           "url": "https://www.just-honest.com/PQ32/esp32-2.0.14.zip",
           "archiveFileName": "esp32-2.0.14.zip",
-          "checksum": "SHA-45761f44ef4f8a4d6d6925fe3461b2662ea84d1ff62b06ab7b40f4a774bd9d44",
+          "checksum": "SHA-256:45761f44ef4f8a4d6d6925fe3461b2662ea84d1ff62b06ab7b40f4a774bd9d44",
           "size": "249600115",
           "help": {
             "online": ""
